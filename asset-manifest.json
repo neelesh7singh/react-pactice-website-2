@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-pactice-website-2/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/react-pactice-website-2/static/js/main.4e249310.chunk.js",
+    "main.js.map": "/react-pactice-website-2/static/js/main.4e249310.chunk.js.map",
+    "runtime-main.js": "/react-pactice-website-2/static/js/runtime-main.290c731a.js",
+    "runtime-main.js.map": "/react-pactice-website-2/static/js/runtime-main.290c731a.js.map",
+    "static/js/2.ace74351.chunk.js": "/react-pactice-website-2/static/js/2.ace74351.chunk.js",
+    "static/js/2.ace74351.chunk.js.map": "/react-pactice-website-2/static/js/2.ace74351.chunk.js.map",
+    "index.html": "/react-pactice-website-2/index.html",
+    "precache-manifest.63c0deddbb70eaff090d2793476e8dc8.js": "/react-pactice-website-2/precache-manifest.63c0deddbb70eaff090d2793476e8dc8.js",
+    "service-worker.js": "/react-pactice-website-2/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/react-pactice-website-2/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.ace74351.chunk.js.LICENSE.txt": "/react-pactice-website-2/static/js/2.ace74351.chunk.js.LICENSE.txt",
+    "static/media/50-beaches.mp4": "/react-pactice-website-2/static/media/50-beaches.fb6ba34d.mp4",
+    "static/media/easy.mp4": "/react-pactice-website-2/static/media/easy.cd625659.mp4",
+    "static/media/featured-video.mp4": "/react-pactice-website-2/static/media/featured-video.a88de43f.mp4",
+    "static/media/it-takes-an-island.mp4": "/react-pactice-website-2/static/media/it-takes-an-island.a797a730.mp4",
+    "static/media/make-it-zero.mp4": "/react-pactice-website-2/static/media/make-it-zero.a2107e50.mp4",
+    "static/media/video.mp4": "/react-pactice-website-2/static/media/video.0881557a.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.290c731a.js",
+    "static/js/2.ace74351.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.4e249310.chunk.js"
+  ]
+}
